@@ -1,6 +1,7 @@
 {
   "name": "TimingExperiments",
   "projects": [
-    "grid1"
+    "grid1",
+    "meiamsomeQuickSortAnimation"
   ]
 }
